@@ -1,4 +1,4 @@
-## ✔ REAL TIME HUMAN DETECTION & COUNTING
+## ✔ Mapping-Human-Presence-In-Real-Time
 - A tensorflow based `Faster RCNN inception v2` python model to detect and count humans in real time images, videos & camera.
 - Used pre-trained `frozen_inference_graph.pb` frozen graph to handle the detection.
 - Visualize the data using `Enumeration Plot` and `Avg. Accuracy Plot`.
